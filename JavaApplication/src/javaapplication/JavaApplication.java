@@ -29,4 +29,11 @@ public class JavaApplication {
     public static void zero_day_fix_09112021(){
         System.out.println("protect");
     }
+    
+    
+    public static void test_a_b() {
+        System.out.println("feature a is working");
+        System.out.println("feature b is working");
+        
+    }
 }
