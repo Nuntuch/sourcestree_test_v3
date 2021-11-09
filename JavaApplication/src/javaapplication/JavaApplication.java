@@ -16,7 +16,14 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
         System.out.println("feature c");
+
+        System.out.println("feature b");
+
+        System.out.println("feature a");
+
+
     }
     
     public static void zero_day_fix_09112021(){
