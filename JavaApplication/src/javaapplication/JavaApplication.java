@@ -18,4 +18,7 @@ public class JavaApplication {
         // TODO code application logic here
     }
     
+    public static void zero_day_fix_09112021(){
+        System.out.println("protect");
+    }
 }
