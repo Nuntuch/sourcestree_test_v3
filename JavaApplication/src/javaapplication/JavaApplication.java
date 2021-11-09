@@ -24,8 +24,6 @@ public class JavaApplication {
         System.out.println("feature a");
         
         System.out.println("feature a update");
-        
-        System.out.println("feature a bug");
 
 
     }
